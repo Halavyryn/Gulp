@@ -1,31 +1,31 @@
 # Gulp
 Assembly for creating optimized sites
 Plugins used:
-HTML
+HTML:
 browser-sync
 gulp-include
-
-CSS
+<br>
+CSS:
 gulp-sass
 gulp-concat
 gulp-autoprefixer
-
-JAVASCRIPT
+<br>
+JAVASCRIPT:
 GULP-UGLIFY-ES
-
-IMAGE
+<br>
+IMAGE:
 gulp-avif
 gulp-webp
 gulp-imagemin
 gulp-newer
-
-SVG
+<br>
+SVG:
 gulp-uglify-es
-
-FONTS
+<br>
+FONTS:
 gulp-fonter
 gulp-ttf2woff2
-
-BUILD project
+<br>
+BUILD project:
 gulp-clean
 
