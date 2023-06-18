@@ -1,6 +1,6 @@
 # Gulp
-Assembly for creating optimized sites
-Plugins used:
+Assembly for creating optimized sites<br>
+Plugins used:<br>
 HTML:
 browser-sync;
 gulp-include.
